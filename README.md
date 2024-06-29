@@ -10,10 +10,10 @@ Description: app for clients to book salon appoitments
 Technologies Used: HTML, CSS, Javascript, Java
 https://github.com/Tlhalefo24/Salon
 
-HTML web apps
-Description: basic web apps
+Toss game web app
+Description: basic HTML game
 Technologies Used: HTML, Java
-
+https://github.com/Tlhalefo24/Toss-game
 
 Skills
 - Programming Languages: Java
