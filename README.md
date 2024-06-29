@@ -8,7 +8,7 @@ Projects
 Salon Web App
 Description: app for clients to book salon appoitments
 Technologies Used: HTML, CSS, Javascript, Java
-
+https://github.com/Tlhalefo24/Salon
 
 HTML web apps
 Description: basic web apps
